@@ -216,7 +216,7 @@ manutrack/
 ### 2.4 Como executar (desenvolvimento)
 
 ```bash
-git clone https://github.com/<usuario>/manutrack.git
+git clone https://github.com/brenosoad/manutrack.git
 cd manutrack
 docker compose up --build
 ```
